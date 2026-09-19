@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/YoshihikoAbe/eacclient/eacnet"
+	"github.com/Ambloplites/eacclient/eacnet"
 	"github.com/spf13/cobra"
 )
 

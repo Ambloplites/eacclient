@@ -3,7 +3,7 @@ package konasute
 import (
 	"fmt"
 
-	"github.com/YoshihikoAbe/eacclient/eacclient/cmd"
+	"github.com/Ambloplites/eacclient/eacclient/cmd"
 	"github.com/spf13/cobra"
 )
 

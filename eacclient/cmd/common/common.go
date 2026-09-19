@@ -1,9 +1,9 @@
 package konasute
 
 import (
-	"github.com/YoshihikoAbe/eacclient/eacclient/cmd"
-	"github.com/YoshihikoAbe/eacclient/eacnet"
-	"github.com/YoshihikoAbe/eacclient/eacnet/eacservice"
+	"github.com/Ambloplites/eacclient/eacclient/cmd"
+	"github.com/Ambloplites/eacclient/eacnet"
+	"github.com/Ambloplites/eacclient/eacnet/eacservice"
 	"github.com/spf13/cobra"
 )
 

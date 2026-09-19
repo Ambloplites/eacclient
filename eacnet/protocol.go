@@ -9,9 +9,9 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/YoshihikoAbe/avslz"
-	"github.com/YoshihikoAbe/avsproperty"
-	"github.com/YoshihikoAbe/eacclient/internal"
+	"github.com/Ambloplites/avslz"
+	"github.com/Ambloplites/avsproperty"
+	"github.com/Ambloplites/eacclient/internal"
 )
 
 type Protocol struct {

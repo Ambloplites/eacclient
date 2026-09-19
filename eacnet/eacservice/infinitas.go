@@ -3,8 +3,8 @@ package eacservice
 import (
 	"context"
 
-	"github.com/YoshihikoAbe/avsproperty"
-	"github.com/YoshihikoAbe/eacclient/eacnet"
+	"github.com/Ambloplites/avsproperty"
+	"github.com/Ambloplites/eacclient/eacnet"
 )
 
 type InfinitasServiceURLs struct {

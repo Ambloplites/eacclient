@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/YoshihikoAbe/avsproperty"
-	"github.com/YoshihikoAbe/eacclient/eacnet"
-	"github.com/YoshihikoAbe/eacclient/internal"
+	"github.com/Ambloplites/avsproperty"
+	"github.com/Ambloplites/eacclient/eacnet"
+	"github.com/Ambloplites/eacclient/internal"
 )
 
 type KonasuteServiceURLs struct {

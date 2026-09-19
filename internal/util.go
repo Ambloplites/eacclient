@@ -3,7 +3,7 @@ package internal
 import (
 	"errors"
 
-	"github.com/YoshihikoAbe/avsproperty"
+	"github.com/Ambloplites/avsproperty"
 )
 
 func NewUniqueNode(parent *avsproperty.Node, name string) *avsproperty.Node {

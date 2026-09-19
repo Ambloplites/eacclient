@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/YoshihikoAbe/avsproperty"
+	"github.com/Ambloplites/avsproperty"
 )
 
 const UserAgent = "e-AMUSEMENT CLOUD AGENT"

@@ -1,7 +1,7 @@
-github.com/YoshihikoAbe/avslz v0.0.1 h1:62GYESTsRJtF28+NhNAeS4bu0GJvY2iZvctQyrS+EpA=
-github.com/YoshihikoAbe/avslz v0.0.1/go.mod h1:ih2t09YcyB+bSQ3awxyG+fF/fwaBh/zlLzpUuwsU8x4=
-github.com/YoshihikoAbe/avsproperty v0.2.0 h1:Q0JteYn/clvoPZEGjhkI8ARWLO9u8v4cI8vH2Ri4o9g=
-github.com/YoshihikoAbe/avsproperty v0.2.0/go.mod h1:QnubObUKj734sRrFtaFzp9Zrk3LKLJHp3+iqIMhqdXM=
+github.com/Ambloplites/avslz v0.0.3 h1:O2zzwlq14jrGDszrmTQoykgWIfcBMNiyvkFURLjvjYg=
+github.com/Ambloplites/avslz v0.0.3/go.mod h1:Uj8WNBZ88iZFYwyErK55vOqhGzPLOfLQu2jRQGKNPds=
+github.com/Ambloplites/avsproperty v0.2.1 h1:vYM4mTU04vkW1pTDNjLpcKx5O8DjIwaFuamx4R5F1dU=
+github.com/Ambloplites/avsproperty v0.2.1/go.mod h1:T6h8eqF9903QKfnldD7+3/p/tNSivhu3+Kw3u+JOmIk=
 github.com/cpuguy83/go-md2man/v2 v2.0.4/go.mod h1:tgQtvFlXSQOSOSIRvRPT7W67SCa46tRHOmNcaadrF8o=
 github.com/inconshreveable/mousetrap v1.1.0 h1:wN+x4NVGpMsO7ErUn/mUI3vEoE6Jt13X2s0bqwp9tc8=
 github.com/inconshreveable/mousetrap v1.1.0/go.mod h1:vpF70FUmC8bwa3OWnCshd2FqLfsEA9PFc4w1p2J65bw=

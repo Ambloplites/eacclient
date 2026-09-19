@@ -3,7 +3,7 @@ package cmd
 import (
 	"os"
 
-	"github.com/YoshihikoAbe/avsproperty"
+	"github.com/Ambloplites/avsproperty"
 	"github.com/spf13/cobra"
 )
 

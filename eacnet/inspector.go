@@ -14,8 +14,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/YoshihikoAbe/avslz"
-	"github.com/YoshihikoAbe/avsproperty"
+	"github.com/Ambloplites/avslz"
+	"github.com/Ambloplites/avsproperty"
 )
 
 type inspector struct {

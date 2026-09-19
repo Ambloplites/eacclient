@@ -1,8 +1,8 @@
 package eacnet
 
 import (
-	"github.com/YoshihikoAbe/avsproperty"
-	"github.com/YoshihikoAbe/eacclient/internal"
+	"github.com/Ambloplites/avsproperty"
+	"github.com/Ambloplites/eacclient/internal"
 )
 
 const InfinitasRoot = "p2d"

@@ -3,7 +3,7 @@ package eacservice
 import (
 	"context"
 
-	"github.com/YoshihikoAbe/eacclient/eacnet"
+	"github.com/Ambloplites/eacclient/eacnet"
 )
 
 type CommonServiceURLs struct {

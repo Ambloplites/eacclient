@@ -1,10 +1,10 @@
-module github.com/YoshihikoAbe/eacclient
+module github.com/Ambloplites/eacclient
 
 go 1.22.6
 
 require (
-	github.com/YoshihikoAbe/avslz v0.0.1
-	github.com/YoshihikoAbe/avsproperty v0.2.0
+	github.com/Ambloplites/avslz v0.0.3
+	github.com/Ambloplites/avsproperty v0.2.1
 	github.com/spf13/cobra v1.8.1
 	github.com/spf13/pflag v1.0.5
 )

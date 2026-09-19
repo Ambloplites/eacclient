@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/YoshihikoAbe/eacclient/eacnet"
+	"github.com/Ambloplites/eacclient/eacnet"
 	"github.com/spf13/cobra"
 	"github.com/spf13/pflag"
 )
